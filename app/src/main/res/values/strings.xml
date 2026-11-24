@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">PasswordChecker</string>
     <string name="password_hint">Hasło</string>
-    <string name="check">Sprawdź</string>
+    <string name="check">Sprawdź hasło</string>
 </resources>
