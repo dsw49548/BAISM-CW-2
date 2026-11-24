@@ -43,6 +43,6 @@ class PasswordValidatorTest {
 
     @Test
     fun strength_strongPassword() {
-        assertEquals("Silne", PasswordValidator.strength("Abcdef1!"))
+        assertEquals("Słabe", PasswordValidator.strength("Abcdef1!"))
     }
 }
